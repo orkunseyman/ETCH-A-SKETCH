@@ -1,0 +1,18 @@
+.cell {
+    border: 5px rgba(0, 0, 0, 0.041) solid;
+    background-color: rgba(255, 255, 255, 1);
+    width: 20px;
+    height: 20px;
+  }
+  /* .cell:hover {
+    background-color: aquamarine !important;
+  } */
+  #main{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .dark{
+    background-color: black;
+
+
+  }
