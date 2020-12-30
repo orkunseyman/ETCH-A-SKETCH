@@ -7,12 +7,20 @@
   /* .cell:hover {
     background-color: aquamarine !important;
   } */
+  main,html{
+    display: flex;
+    justify-content: center;
+    
+    width: 100%;
+    margin: 0px;
+
+  }
   #main{
     display: flex;
+   
+    width: 30%;
+    height: 100%;
     flex-wrap: wrap;
+    margin: 0 auto;
   }
-  .dark{
-    background-color: black;
-
-
-  }
+ 
